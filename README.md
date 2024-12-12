@@ -1,4 +1,6 @@
 #Aplicação de Restaurante - Sistema de Pedidos
+
+
 Este é um sistema simples para um restaurante desenvolvido em Java. A aplicação permite gerenciar informações sobre clientes, garçons e o status dos pedidos feitos pelos clientes.
 
 Funcionalidades
