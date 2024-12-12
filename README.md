@@ -12,4 +12,3 @@ O sistema oferece uma interface simples para simular a interação entre cliente
 Tecnologias Utilizadas
 Linguagem: Java
 IDE: (Exemplo: IntelliJ IDEA, Eclipse, NetBeans, etc.)
-Bibliotecas: Nenhuma biblioteca externa foi utilizada neste projeto.
